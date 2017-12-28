@@ -1,11 +1,11 @@
-#include<iostream>
+#include <iostream>
 using std::fixed;
-#include<cmath>
-#include<string>
+#include <cmath>
+#include <string>
 using std::string;
-#include<sstream>
+#include <sstream>
 using std::ostringstream;
-#include<iomanip>
+#include <iomanip>
 using std::setprecision; 
 
 #include "ball.h"
